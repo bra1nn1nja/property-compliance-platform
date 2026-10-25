@@ -26,7 +26,16 @@ Awaab's Law turns regulation into time-critical, event-driven business rules:
 - **Simulator** that plays tenants, investigators and contractors on an accelerated clock.
 - **Azure at £0**: Container Apps (scale to zero), Azure SQL free offer, Static Web Apps; infrastructure in **Terraform**.
 
-Full design: [docs/design.md](docs/design.md)
+Full design: [docs/design.md](docs/design.md) · Diagrams: [docs/diagrams.md](docs/diagrams.md)
+
+```mermaid
+flowchart LR
+    tenant["Tenant portal"] --> api["Repairs.Api<br/>modular monolith"]
+    staff["Staff app"] --> api
+    api -- "live updates" --> staff
+    api --> db[("SQL Server<br/>schemas, event store, outbox")]
+    sim["Simulator"] --> api
+```
 
 ## Roadmap
 

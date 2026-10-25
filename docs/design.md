@@ -8,7 +8,7 @@ This repo holds **Repairs**: social housing repairs and Awaab's Law hazard compl
 A second project, **Elections** (replay of a UK general election night from open results data), will live in
 **its own repo** and reuse this repo's platform code (building blocks, Aspire defaults, Terraform modules, CI workflows).
 
-> Repo: `property-compliance-platform`.
+> Repo: `property-compliance-platform`. Diagrams of everything below: [diagrams.md](diagrams.md).
 
 ---
 
