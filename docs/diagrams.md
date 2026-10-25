@@ -2,18 +2,18 @@
 
 Visual overview of what we're building. Details and reasoning are in [design.md](design.md).
 
-1. [System context](#1-system-context)
-2. [Runtime containers](#2-runtime-containers)
-3. [Bounded contexts and integration events](#3-bounded-contexts-and-integration-events)
-4. [Module dependency rules](#4-module-dependency-rules)
-5. [Hazard case lifecycle](#5-hazard-case-lifecycle)
-6. [A concern from report to dashboard](#6-a-concern-from-report-to-dashboard)
-7. [Statutory clocks: a worked example](#7-statutory-clocks-a-worked-example)
-8. [Azure deployment at £0](#8-azure-deployment-at-0)
+1. [C4 system context diagram: users and external systems](#1-c4-system-context-diagram-users-and-external-systems)
+2. [C4 container diagram: what runs](#2-c4-container-diagram-what-runs)
+3. [Context map: bounded contexts and integration events](#3-context-map-bounded-contexts-and-integration-events)
+4. [Dependency diagram: module rules](#4-dependency-diagram-module-rules)
+5. [State diagram: hazard case lifecycle](#5-state-diagram-hazard-case-lifecycle)
+6. [Sequence diagram: a concern from report to dashboard](#6-sequence-diagram-a-concern-from-report-to-dashboard)
+7. [Gantt chart: statutory clocks worked example](#7-gantt-chart-statutory-clocks-worked-example)
+8. [Deployment diagram: Azure at £0](#8-deployment-diagram-azure-at-0)
 
 ---
 
-## 1. System context
+## 1. C4 system context diagram: users and external systems
 
 Who uses the platform and what it talks to.
 
@@ -39,7 +39,7 @@ flowchart LR
 
 ---
 
-## 2. Runtime containers
+## 2. C4 container diagram: what runs
 
 What actually runs. Locally everything starts with Aspire; in Azure each box maps to a free-tier service.
 
@@ -89,7 +89,7 @@ flowchart TB
 
 ---
 
-## 3. Bounded contexts and integration events
+## 3. Context map: bounded contexts and integration events
 
 Each context owns its data and schema. Contexts talk only through integration events published via the outbox.
 
@@ -120,7 +120,7 @@ flowchart LR
 
 ---
 
-## 4. Module dependency rules
+## 4. Dependency diagram: module rules
 
 Inside a module, dependencies point inwards to the domain. Between modules, only `Contracts` may be referenced.
 Architecture tests fail the build if these rules are broken.
@@ -152,7 +152,7 @@ flowchart TB
 
 ---
 
-## 5. Hazard case lifecycle
+## 5. State diagram: hazard case lifecycle
 
 The `HazardCase` process manager, simplified. Every transition is an event in the case's stream.
 The written summary (3 working days after any investigation) and tenant updates run alongside these states.
@@ -193,7 +193,7 @@ stateDiagram-v2
 
 ---
 
-## 6. A concern from report to dashboard
+## 6. Sequence diagram: a concern from report to dashboard
 
 How one damp report flows through the modules. The state change and its outgoing messages always commit
 in **one transaction** (the outbox), so nothing is lost if the process crashes.
@@ -232,7 +232,7 @@ sequenceDiagram
 
 ---
 
-## 7. Statutory clocks: a worked example
+## 7. Gantt chart: statutory clocks worked example
 
 A significant damp hazard reported on **Friday 18 December 2026**, with the investigation concluded on
 **Monday 21 December**. Working days skip weekends, Christmas Day, the Boxing Day substitute (Mon 28 Dec)
@@ -262,7 +262,7 @@ gantt
 
 ---
 
-## 8. Azure deployment at £0
+## 8. Deployment diagram: Azure at £0
 
 Two resource groups so tearing down the apps can never touch the data. GitHub Actions deploys with Terraform
 and signs in to Azure with OIDC, so no secrets are stored.
