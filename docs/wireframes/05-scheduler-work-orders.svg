@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  
+  <rect width="1280" height="800" fill="#ffffff"/>
+  <rect x="0" y="0" width="1280" height="56" rx="0" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <text x="24" y="35" font-size="18" font-weight="700" fill="#ffffff" text-anchor="start">PCP Staff</text>
+  <text x="150" y="35" font-size="14" font-weight="400" fill="#adbac7" text-anchor="start">Concerns</text>
+  <text x="240.72" y="35" font-size="14" font-weight="400" fill="#adbac7" text-anchor="start">Cases</text>
+  <text x="307.92" y="35" font-size="14" font-weight="400" fill="#adbac7" text-anchor="start">Investigations</text>
+  <text x="445.68" y="35" font-size="14" font-weight="600" fill="#ffffff" text-anchor="start">Work orders</text>
+  <rect x="445.68" y="52" width="86.24000000000001" height="4" rx="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <text x="559.9200000000001" y="35" font-size="14" font-weight="400" fill="#adbac7" text-anchor="start">Oversight</text>
+  <rect x="740" y="12" width="270" height="32" rx="6" fill="#373e47" stroke="#373e47" stroke-width="1"/>
+  <text x="752" y="33" font-size="12" font-weight="400" fill="#ffffff" text-anchor="start">Demo clock  Tue 22 Dec 09:25</text>
+  <text x="998" y="33" font-size="12" font-weight="600" fill="#adbac7" text-anchor="end">x60  ||</text>
+  <rect x="1020" y="12" width="236" height="32" rx="6" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <text x="1032" y="33" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Persona: Scheduler</text>
+  <text x="1244" y="33" font-size="13" font-weight="400" fill="#656d76" text-anchor="end">▾</text>
+  <text x="24" y="96" font-size="22" font-weight="700" fill="#1f2328" text-anchor="start">Work orders</text>
+  <rect x="200" y="79" width="71.76" height="22" rx="11" fill="#eaeef2" stroke="#eaeef2" stroke-width="1"/>
+  <text x="209" y="94" font-size="12" font-weight="600" fill="#424a53" text-anchor="start">All work</text>
+  <rect x="279.76" y="79" width="125.52000000000001" height="22" rx="11" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <text x="288.76" y="94" font-size="12" font-weight="600" fill="#ffffff" text-anchor="start">Awaab&#x27;s Law only</text>
+  <rect x="413.28" y="79" width="105.36000000000001" height="22" rx="11" fill="#eaeef2" stroke="#eaeef2" stroke-width="1"/>
+  <text x="422.28" y="94" font-size="12" font-weight="600" fill="#424a53" text-anchor="start">Due this week</text>
+  <rect x="24" y="120" width="200" height="656" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="36" y="146" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start">To schedule (3)</text>
+  <rect x="32" y="160" width="184" height="102" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="44" y="184" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start">WO-1179</text>
+  <text x="44" y="206" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start">Make safe · Electrics</text>
+  <text x="44" y="224" font-size="12" font-weight="400" fill="#656d76" text-anchor="start">2 Ash Court</text>
+  <rect x="44" y="232" width="110.4" height="22" rx="11" fill="#ffebe9" stroke="#ffebe9" stroke-width="1"/>
+  <text x="53" y="247" font-size="11" font-weight="600" fill="#a40e26" text-anchor="start">Due today 17:40</text>
+  <rect x="32" y="272" width="184" height="102" rx="6" fill="#ffffff" stroke="#24292f" stroke-width="2"/>
+  <text x="44" y="296" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start">WO-1182</text>
+  <text x="44" y="318" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start">Make safe · Damp and mould</text>
+  <text x="44" y="336" font-size="12" font-weight="400" fill="#656d76" text-anchor="start">14 Elm Row, Flat 3</text>
+  <rect x="44" y="344" width="104.24000000000001" height="22" rx="11" fill="#fff8c5" stroke="#fff8c5" stroke-width="1"/>
+  <text x="53" y="359" font-size="11" font-weight="600" fill="#7d4e00" text-anchor="start">Due Wed 30 Dec</text>
+  <rect x="32" y="384" width="184" height="102" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="44" y="408" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start">WO-1185</text>
+  <text x="44" y="430" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start">Preventative · Insulation</text>
+  <text x="44" y="448" font-size="12" font-weight="400" fill="#656d76" text-anchor="start">14 Elm Row, Flat 3</text>
+  <rect x="44" y="456" width="110.4" height="22" rx="11" fill="#eaeef2" stroke="#eaeef2" stroke-width="1"/>
+  <text x="53" y="471" font-size="11" font-weight="600" fill="#424a53" text-anchor="start">Start by 30 Dec</text>
+  <rect x="232" y="120" width="200" height="656" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="244" y="146" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start">Booked (2)</text>
+  <rect x="240" y="160" width="184" height="102" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="252" y="184" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start">WO-1170</text>
+  <text x="252" y="206" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start">Make safe · Damp and mould</text>
+  <text x="252" y="224" font-size="12" font-weight="400" fill="#656d76" text-anchor="start">9 Birch Way</text>
+  <rect x="252" y="232" width="116.56" height="22" rx="11" fill="#eaeef2" stroke="#eaeef2" stroke-width="1"/>
+  <text x="261" y="247" font-size="11" font-weight="600" fill="#424a53" text-anchor="start">Wed 23 Dec 08:00</text>
+  <rect x="240" y="272" width="184" height="102" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="252" y="296" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start">WO-1168</text>
+  <text x="252" y="318" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start">Preventative · Ventilation</text>
+  <text x="252" y="336" font-size="12" font-weight="400" fill="#656d76" text-anchor="start">5 Cedar Close</text>
+  <rect x="252" y="344" width="110.4" height="22" rx="11" fill="#eaeef2" stroke="#eaeef2" stroke-width="1"/>
+  <text x="261" y="359" font-size="11" font-weight="600" fill="#424a53" text-anchor="start">Mon 4 Jan 13:00</text>
+  <rect x="440" y="120" width="200" height="656" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="452" y="146" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start">In progress (1)</text>
+  <rect x="448" y="160" width="184" height="102" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="460" y="184" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start">WO-1161</text>
+  <text x="460" y="206" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start">Make safe · Falls (stair rail)</text>
+  <text x="460" y="224" font-size="12" font-weight="400" fill="#656d76" text-anchor="start">31 Oak Street</text>
+  <rect x="460" y="232" width="104.24000000000001" height="22" rx="11" fill="#fff8c5" stroke="#fff8c5" stroke-width="1"/>
+  <text x="469" y="247" font-size="11" font-weight="600" fill="#7d4e00" text-anchor="start">Due Wed 23 Dec</text>
+  <rect x="648" y="120" width="200" height="656" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="660" y="146" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start">Done today (1)</text>
+  <rect x="656" y="160" width="184" height="102" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="668" y="184" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start">WO-1150</text>
+  <text x="668" y="206" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start">Make safe · Damp and mould</text>
+  <text x="668" y="224" font-size="12" font-weight="400" fill="#656d76" text-anchor="start">5 Cedar Close</text>
+  <rect x="668" y="232" width="110.4" height="22" rx="11" fill="#dafbe1" stroke="#dafbe1" stroke-width="1"/>
+  <text x="677" y="247" font-size="11" font-weight="600" fill="#116329" text-anchor="start">Completed 08:40</text>
+  <rect x="872" y="120" width="384" height="656" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="888" y="148" font-size="17" font-weight="700" fill="#1f2328" text-anchor="start">Book WO-1182</text>
+  <text x="888" y="170" font-size="12" font-weight="400" fill="#656d76" text-anchor="start">Make safe · 14 Elm Row, Flat 3 · Due Wed 30 Dec</text>
+  <text x="888" y="200" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Contractor</text>
+  <rect x="888" y="208" width="352" height="36" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="898" y="231.0" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">Dampfix Ltd (damp and mould)</text>
+  <text x="1222" y="231.0" font-size="14" font-weight="400" fill="#656d76" text-anchor="start">▾</text>
+  <text x="888" y="261" font-size="12" font-weight="400" fill="#656d76" text-anchor="start">Only contractors competent for this hazard</text>
+  <text x="888" y="284" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Date</text>
+  <rect x="888" y="292" width="168" height="36" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="898" y="315.0" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">Tue 29 Dec</text>
+  <text x="1038" y="315.0" font-size="14" font-weight="400" fill="#656d76" text-anchor="start">▾</text>
+  <text x="1072" y="284" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Slot</text>
+  <rect x="1072" y="292" width="168" height="36" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="1082" y="315.0" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">10:00 to 12:00</text>
+  <text x="1222" y="315.0" font-size="14" font-weight="400" fill="#656d76" text-anchor="start">▾</text>
+  <text x="888" y="356" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Entry</text>
+  <circle cx="896" cy="376" r="8" fill="#ffffff" stroke="#24292f" stroke-width="1.5"/>
+  <circle cx="896" cy="376" r="4" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <text x="912" y="381" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">Tenant has agreed this time</text>
+  <circle cx="896" cy="404" r="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.5"/>
+  <text x="912" y="409" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">Entry without consent (24h written notice)</text>
+  <rect x="888" y="428" width="352" height="66" rx="6" fill="#ddf4ff" stroke="#54aeff" stroke-width="1"/>
+  <text x="902" y="450" font-size="13" font-weight="700" fill="#0a3069" text-anchor="start">Notice rule</text>
+  <text x="902" y="470" font-size="12" font-weight="400" fill="#0a3069" text-anchor="start">Without consent, written notice must be</text>
+  <text x="902" y="486" font-size="12" font-weight="400" fill="#0a3069" text-anchor="start">served by Mon 28 Dec 10:00 for this slot.</text>
+  <text x="888" y="524" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Dampfix availability</text>
+  <text x="888" y="548" font-size="12" font-weight="600" fill="#1f2328" text-anchor="start">Mon 28</text>
+  <rect x="888" y="556" width="82" height="72" rx="4" fill="#eaeef2" stroke="#d0d7de" stroke-width="1"/>
+  <text x="929" y="597" font-size="11" font-weight="600" fill="#656d76" text-anchor="middle">Bank hol.</text>
+  <text x="978" y="548" font-size="12" font-weight="600" fill="#1f2328" text-anchor="start">Tue 29</text>
+  <rect x="978" y="556" width="82" height="34" rx="4" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <text x="1019" y="578" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">AM</text>
+  <rect x="978" y="594" width="82" height="34" rx="4" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="1019" y="616" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle">PM</text>
+  <text x="1068" y="548" font-size="12" font-weight="600" fill="#1f2328" text-anchor="start">Wed 30</text>
+  <rect x="1068" y="556" width="82" height="34" rx="4" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="1109" y="578" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle">AM</text>
+  <rect x="1068" y="594" width="82" height="34" rx="4" fill="#eaeef2" stroke="#d0d7de" stroke-width="1"/>
+  <text x="1109" y="616" font-size="12" font-weight="600" fill="#656d76" text-anchor="middle">Full</text>
+  <text x="1158" y="548" font-size="12" font-weight="600" fill="#1f2328" text-anchor="start">Thu 31</text>
+  <rect x="1158" y="556" width="82" height="34" rx="4" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="1199" y="578" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle">AM</text>
+  <rect x="1158" y="594" width="82" height="34" rx="4" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="1199" y="616" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle">PM</text>
+  <rect x="888" y="716" width="352" height="40" rx="6" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <text x="1064.0" y="741.04" font-size="14" font-weight="600" fill="#ffffff" text-anchor="middle">Book and notify tenant</text>
+  
+  <rect x="0.5" y="0.5" width="1279" height="799" fill="none" stroke="#d0d7de"/>
+</svg>

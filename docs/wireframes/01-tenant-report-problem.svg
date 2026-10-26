@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs><clipPath id="phone"><rect x="0" y="0" width="390" height="844" rx="28"/></clipPath></defs>
+  <g clip-path="url(#phone)"><rect width="390" height="844" fill="#ffffff"/>
+  <rect x="0" y="0" width="390" height="64" rx="0" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <text x="20" y="42" font-size="18" font-weight="700" fill="#ffffff" text-anchor="start">Your home</text>
+  <text x="370" y="42" font-size="14" font-weight="600" fill="#adbac7" text-anchor="end">Menu</text>
+  <text x="20" y="98" font-size="22" font-weight="700" fill="#1f2328" text-anchor="start">Report a problem</text>
+  <text x="20" y="122" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">Step 2 of 4</text>
+  <rect x="20" y="132" width="83" height="5" rx="2" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <rect x="109" y="132" width="83" height="5" rx="2" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <rect x="198" y="132" width="83" height="5" rx="2" fill="#eaeef2" stroke="#eaeef2" stroke-width="1"/>
+  <rect x="287" y="132" width="83" height="5" rx="2" fill="#eaeef2" stroke="#eaeef2" stroke-width="1"/>
+  <rect x="20" y="152" width="350" height="62" rx="8" fill="#ffebe9" stroke="#ff8182" stroke-width="1"/>
+  <text x="34" y="176" font-size="13" font-weight="700" fill="#a40e26" text-anchor="start">Immediate danger? Gas, electrics, flooding</text>
+  <text x="34" y="198" font-size="13" font-weight="400" fill="#a40e26" text-anchor="start">Call our emergency repairs line now.</text>
+  <text x="20" y="244" font-size="15" font-weight="700" fill="#1f2328" text-anchor="start">What&#x27;s the problem?</text>
+  <rect x="20" y="256" width="170" height="52" rx="8" fill="#f6f8fa" stroke="#24292f" stroke-width="2"/>
+  <text x="34" y="287" font-size="14" font-weight="600" fill="#1f2328" text-anchor="start">Damp or mould</text>
+  <rect x="200" y="256" width="170" height="52" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="214" y="287" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">Leak or water</text>
+  <rect x="20" y="318" width="170" height="52" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="34" y="349" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">Heating</text>
+  <rect x="200" y="318" width="170" height="52" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="214" y="349" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">Electrics</text>
+  <rect x="20" y="380" width="170" height="52" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="34" y="411" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">Something else</text>
+  <text x="20" y="462" font-size="15" font-weight="700" fill="#1f2328" text-anchor="start">Which room?</text>
+  <rect x="20" y="474" width="127.20000000000002" height="22" rx="11" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <text x="29" y="489" font-size="13" font-weight="600" fill="#ffffff" text-anchor="start">Child&#x27;s bedroom</text>
+  <rect x="155.20000000000002" y="474" width="76.24000000000001" height="22" rx="11" fill="#eaeef2" stroke="#eaeef2" stroke-width="1"/>
+  <text x="164.20000000000002" y="489" font-size="13" font-weight="600" fill="#424a53" text-anchor="start">Bathroom</text>
+  <rect x="239.44000000000003" y="474" width="68.96000000000001" height="22" rx="11" fill="#eaeef2" stroke="#eaeef2" stroke-width="1"/>
+  <text x="248.44000000000003" y="489" font-size="13" font-weight="600" fill="#424a53" text-anchor="start">Kitchen</text>
+  <rect x="20" y="504" width="98.08000000000001" height="22" rx="11" fill="#eaeef2" stroke="#eaeef2" stroke-width="1"/>
+  <text x="29" y="519" font-size="13" font-weight="600" fill="#424a53" text-anchor="start">Living room</text>
+  <rect x="126.08000000000001" y="504" width="54.400000000000006" height="22" rx="11" fill="#eaeef2" stroke="#eaeef2" stroke-width="1"/>
+  <text x="135.08" y="519" font-size="13" font-weight="600" fill="#424a53" text-anchor="start">Other</text>
+  <text x="20" y="558" font-size="15" font-weight="700" fill="#1f2328" text-anchor="start">Is anyone&#x27;s health affected?</text>
+  <circle cx="28" cy="578" r="8" fill="#ffffff" stroke="#24292f" stroke-width="1.5"/>
+  <circle cx="28" cy="578" r="4" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <text x="44" y="583" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">Yes</text>
+  <circle cx="98" cy="578" r="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.5"/>
+  <text x="114" y="583" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">No</text>
+  <circle cx="158" cy="578" r="8" fill="#ffffff" stroke="#8c959f" stroke-width="1.5"/>
+  <text x="174" y="583" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">Not sure</text>
+  <rect x="20" y="598" width="350" height="70" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="30" y="622" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">My baby has been wheezing at night</text>
+  <text x="30" y="642" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">since the mould came back.</text>
+  <text x="20" y="698" font-size="15" font-weight="700" fill="#1f2328" text-anchor="start">Photos (optional)</text>
+  <rect x="20" y="710" width="64" height="52" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="20" y1="710" x2="84" y2="762" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="84" y1="710" x2="20" y2="762" stroke="#d0d7de" stroke-width="1"/>
+  <rect x="92" y="710" width="64" height="52" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="92" y1="710" x2="156" y2="762" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="156" y1="710" x2="92" y2="762" stroke="#d0d7de" stroke-width="1"/>
+  <rect x="164" y="710" width="64" height="52" rx="4" fill="#ffffff" stroke="#8c959f" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="196.0" y="741.0" font-size="13" font-weight="600" fill="#656d76" text-anchor="middle">+ Add</text>
+  <rect x="20" y="782" width="350" height="44" rx="6" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <text x="195.0" y="809.4" font-size="15" font-weight="600" fill="#ffffff" text-anchor="middle">Continue</text>
+  </g>
+  <rect x="1" y="1" width="388" height="842" rx="28" fill="none" stroke="#1f2328" stroke-width="2"/>
+</svg>

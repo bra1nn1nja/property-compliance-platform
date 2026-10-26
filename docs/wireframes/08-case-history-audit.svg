@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  
+  <rect width="1280" height="800" fill="#ffffff"/>
+  <rect x="0" y="0" width="1280" height="56" rx="0" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <text x="24" y="35" font-size="18" font-weight="700" fill="#ffffff" text-anchor="start">PCP Staff</text>
+  <text x="150" y="35" font-size="14" font-weight="400" fill="#adbac7" text-anchor="start">Concerns</text>
+  <text x="240.72" y="35" font-size="14" font-weight="600" fill="#ffffff" text-anchor="start">Cases</text>
+  <rect x="240.72" y="52" width="39.2" height="4" rx="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <text x="307.92" y="35" font-size="14" font-weight="400" fill="#adbac7" text-anchor="start">Investigations</text>
+  <text x="445.68" y="35" font-size="14" font-weight="400" fill="#adbac7" text-anchor="start">Work orders</text>
+  <text x="559.9200000000001" y="35" font-size="14" font-weight="400" fill="#adbac7" text-anchor="start">Oversight</text>
+  <rect x="740" y="12" width="270" height="32" rx="6" fill="#373e47" stroke="#373e47" stroke-width="1"/>
+  <text x="752" y="33" font-size="12" font-weight="400" fill="#ffffff" text-anchor="start">Demo clock  Tue 22 Dec 14:20</text>
+  <text x="998" y="33" font-size="12" font-weight="600" fill="#adbac7" text-anchor="end">x60  ||</text>
+  <rect x="1020" y="12" width="236" height="32" rx="6" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <text x="1032" y="33" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Persona: Compliance manager</text>
+  <text x="1244" y="33" font-size="13" font-weight="400" fill="#656d76" text-anchor="end">▾</text>
+  <text x="24" y="96" font-size="22" font-weight="700" fill="#1f2328" text-anchor="start">HC-2026-0457 · Case history</text>
+  <text x="24" y="118" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">14 Elm Row, Flat 3 · Damp and mould · Append-only event stream</text>
+  <rect x="890" y="80" width="145.68" height="22" rx="11" fill="#dafbe1" stroke="#dafbe1" stroke-width="1"/>
+  <text x="899" y="95" font-size="12" font-weight="600" fill="#116329" text-anchor="start">Hash chain verified</text>
+  <rect x="1056" y="74" width="200" height="36" rx="6" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <text x="1156.0" y="97.04" font-size="14" font-weight="600" fill="#ffffff" text-anchor="middle">Export evidence pack</text>
+  <text x="24" y="154" font-size="14" font-weight="400" fill="#656d76" text-anchor="start">Summary</text>
+  <text x="110.88" y="154" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start">History</text>
+  <rect x="110.88" y="162" width="54.88" height="3" rx="1" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <text x="197.76" y="154" font-size="14" font-weight="400" fill="#656d76" text-anchor="start">Letters</text>
+  <text x="284.64" y="154" font-size="14" font-weight="400" fill="#656d76" text-anchor="start">Work orders</text>
+  <text x="402.88" y="154" font-size="14" font-weight="400" fill="#656d76" text-anchor="start">Evidence</text>
+  <line x1="24" y1="166" x2="1256" y2="166" stroke="#d0d7de" stroke-width="1"/>
+  <text x="40" y="196" font-size="12" font-weight="700" fill="#656d76" text-anchor="start">#</text>
+  <text x="76" y="196" font-size="12" font-weight="700" fill="#656d76" text-anchor="start">Occurred</text>
+  <text x="226" y="196" font-size="12" font-weight="700" fill="#656d76" text-anchor="start">Recorded</text>
+  <text x="330" y="196" font-size="12" font-weight="700" fill="#656d76" text-anchor="start">Event</text>
+  <text x="900" y="196" font-size="12" font-weight="700" fill="#656d76" text-anchor="start">By</text>
+  <text x="1110" y="196" font-size="12" font-weight="700" fill="#656d76" text-anchor="start">Source</text>
+  <line x1="24" y1="206" x2="1256" y2="206" stroke="#d0d7de" stroke-width="1"/>
+  <text x="40" y="241" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">1</text>
+  <text x="76" y="241" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Fri 18 Dec 16:31</text>
+  <rect x="226" y="225" width="51.6" height="22" rx="11" fill="#fff8c5" stroke="#fff8c5" stroke-width="1"/>
+  <text x="235" y="240" font-size="12" font-weight="600" fill="#7d4e00" text-anchor="start">16:44</text>
+  <text x="330" y="241" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start">ConcernReported</text>
+  <text x="449.20000000000005" y="241" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">tenant phoned, damp in bedroom</text>
+  <text x="900" y="241" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">J. Lee, contact centre</text>
+  <text x="1110" y="241" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">staff app</text>
+  <rect x="24" y="258" width="1232" height="44" rx="0" fill="#f6f8fa" stroke="#f6f8fa" stroke-width="1"/>
+  <text x="40" y="285" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">2</text>
+  <text x="76" y="285" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Fri 18 Dec 16:46</text>
+  <text x="226" y="285" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">16:46</text>
+  <text x="330" y="285" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start">TriageDecided</text>
+  <text x="434.64" y="285" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">standard (suggestion accepted)</text>
+  <text x="900" y="285" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">J. Lee</text>
+  <text x="1110" y="285" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">staff app</text>
+  <text x="40" y="329" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">3</text>
+  <text x="76" y="329" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Fri 18 Dec 16:46</text>
+  <text x="226" y="329" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">16:46</text>
+  <text x="330" y="329" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start">ClockStarted</text>
+  <text x="427.36" y="329" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">investigation, due Wed 6 Jan</text>
+  <text x="900" y="329" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">system</text>
+  <text x="1110" y="329" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">hazard case</text>
+  <rect x="24" y="346" width="1232" height="44" rx="0" fill="#f6f8fa" stroke="#f6f8fa" stroke-width="1"/>
+  <text x="40" y="373" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">4</text>
+  <text x="76" y="373" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Fri 18 Dec 17:02</text>
+  <text x="226" y="373" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">17:02</text>
+  <text x="330" y="373" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start">InvestigationScheduled</text>
+  <text x="500.16" y="373" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">Mon 21 Dec, R. Patel</text>
+  <text x="900" y="373" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">S. Ward, scheduler</text>
+  <text x="1110" y="373" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">staff app</text>
+  <text x="40" y="417" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">5</text>
+  <text x="76" y="417" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Mon 21 Dec 11:10</text>
+  <rect x="226" y="401" width="51.6" height="22" rx="11" fill="#fff8c5" stroke="#fff8c5" stroke-width="1"/>
+  <text x="235" y="416" font-size="12" font-weight="600" fill="#7d4e00" text-anchor="start">11:58</text>
+  <text x="330" y="417" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start">PhysicalInspectionCompleted</text>
+  <text x="536.5600000000001" y="417" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">photos E-1 to E-4</text>
+  <text x="900" y="417" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">R. Patel</text>
+  <text x="1110" y="417" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">mobile</text>
+  <rect x="24" y="434" width="1232" height="44" rx="0" fill="#f6f8fa" stroke="#f6f8fa" stroke-width="1"/>
+  <text x="40" y="461" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">6</text>
+  <text x="76" y="461" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Mon 21 Dec 15:30</text>
+  <text x="226" y="461" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">15:30</text>
+  <text x="330" y="461" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start">InvestigationConcluded</text>
+  <text x="500.16" y="461" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">significant hazard</text>
+  <text x="900" y="461" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">R. Patel</text>
+  <text x="1110" y="461" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">staff app</text>
+  <text x="40" y="505" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">7</text>
+  <text x="76" y="505" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Mon 21 Dec 15:30</text>
+  <text x="226" y="505" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">15:30</text>
+  <text x="330" y="505" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start">ClockMet</text>
+  <text x="398.24" y="505" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">investigation, 9 working days early</text>
+  <text x="900" y="505" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">system</text>
+  <text x="1110" y="505" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">hazard case</text>
+  <rect x="24" y="522" width="1232" height="44" rx="0" fill="#f6f8fa" stroke="#f6f8fa" stroke-width="1"/>
+  <text x="40" y="549" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">8</text>
+  <text x="76" y="549" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Mon 21 Dec 15:30</text>
+  <text x="226" y="549" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">15:30</text>
+  <text x="330" y="549" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start">ClockStarted</text>
+  <text x="427.36" y="549" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">written summary, due Thu 24 Dec</text>
+  <text x="900" y="549" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">system</text>
+  <text x="1110" y="549" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">hazard case</text>
+  <text x="40" y="593" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">9</text>
+  <text x="76" y="593" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Mon 21 Dec 15:30</text>
+  <text x="226" y="593" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">15:30</text>
+  <text x="330" y="593" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start">ClockStarted</text>
+  <text x="427.36" y="593" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">safety work, due Wed 30 Dec</text>
+  <text x="900" y="593" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">system</text>
+  <text x="1110" y="593" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">hazard case</text>
+  <rect x="24" y="610" width="1232" height="44" rx="0" fill="#f6f8fa" stroke="#f6f8fa" stroke-width="1"/>
+  <text x="40" y="637" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">10</text>
+  <text x="76" y="637" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Tue 22 Dec 09:12</text>
+  <text x="226" y="637" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">09:12</text>
+  <text x="330" y="637" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start">WorkOrderRequested</text>
+  <text x="471.04" y="637" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">make safe, WO-1182</text>
+  <text x="900" y="637" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">system</text>
+  <text x="1110" y="637" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">outbox</text>
+  <text x="40" y="681" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">11</text>
+  <text x="76" y="681" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Tue 22 Dec 09:40</text>
+  <text x="226" y="681" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">09:40</text>
+  <text x="330" y="681" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start">WrittenSummarySent</text>
+  <text x="471.04" y="681" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">by email, letter L-2207</text>
+  <text x="900" y="681" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Communications</text>
+  <text x="1110" y="681" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">outbox</text>
+  <rect x="24" y="698" width="1232" height="44" rx="0" fill="#f6f8fa" stroke="#f6f8fa" stroke-width="1"/>
+  <text x="40" y="725" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">12</text>
+  <text x="76" y="725" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Tue 22 Dec 09:40</text>
+  <text x="226" y="725" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">09:40</text>
+  <text x="330" y="725" font-size="13" font-weight="700" fill="#1f2328" text-anchor="start">ClockMet</text>
+  <text x="398.24" y="725" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">written summary</text>
+  <text x="900" y="725" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">system</text>
+  <text x="1110" y="725" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">hazard case</text>
+  <text x="24" y="756" font-size="12" font-weight="400" fill="#656d76" text-anchor="start">Amber = recorded later than it happened. Legal clocks run from &#x27;Occurred&#x27;.</text>
+  <text x="24" y="776" font-size="12" font-weight="400" fill="#656d76" text-anchor="start">Events are never edited or deleted; corrections are new events.</text>
+  
+  <rect x="0.5" y="0.5" width="1279" height="799" fill="none" stroke="#d0d7de"/>
+</svg>
