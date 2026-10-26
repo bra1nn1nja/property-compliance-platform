@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  
+  <rect width="1280" height="800" fill="#ffffff"/>
+  <rect x="0" y="0" width="1280" height="56" rx="0" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <text x="24" y="35" font-size="18" font-weight="700" fill="#ffffff" text-anchor="start">PCP Staff</text>
+  <text x="150" y="35" font-size="14" font-weight="400" fill="#adbac7" text-anchor="start">Concerns</text>
+  <text x="240.72" y="35" font-size="14" font-weight="400" fill="#adbac7" text-anchor="start">Cases</text>
+  <text x="307.92" y="35" font-size="14" font-weight="600" fill="#ffffff" text-anchor="start">Investigations</text>
+  <rect x="307.92" y="52" width="109.76" height="4" rx="2" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <text x="445.68" y="35" font-size="14" font-weight="400" fill="#adbac7" text-anchor="start">Work orders</text>
+  <text x="559.9200000000001" y="35" font-size="14" font-weight="400" fill="#adbac7" text-anchor="start">Oversight</text>
+  <rect x="740" y="12" width="270" height="32" rx="6" fill="#373e47" stroke="#373e47" stroke-width="1"/>
+  <text x="752" y="33" font-size="12" font-weight="400" fill="#ffffff" text-anchor="start">Demo clock  Tue 22 Dec 13:20</text>
+  <text x="998" y="33" font-size="12" font-weight="600" fill="#adbac7" text-anchor="end">x60  ||</text>
+  <rect x="1020" y="12" width="236" height="32" rx="6" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+  <text x="1032" y="33" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Persona: Investigator</text>
+  <text x="1244" y="33" font-size="13" font-weight="400" fill="#656d76" text-anchor="end">▾</text>
+  <text x="24" y="96" font-size="20" font-weight="700" fill="#1f2328" text-anchor="start">HC-2026-0463 · 22 Fir Lane, Flat 1</text>
+  <text x="24" y="120" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">Damp and mould · Child&#x27;s bedroom · Triage: Emergency (accepted 10:33)</text>
+  <rect x="1046" y="82" width="212.88000000000002" height="22" rx="11" fill="#ffebe9" stroke="#ffebe9" stroke-width="1"/>
+  <text x="1055" y="97" font-size="12" font-weight="600" fill="#a40e26" text-anchor="start">Emergency clock: 21h 11m left</text>
+  <rect x="24" y="140" width="600" height="236" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="40" y="166" font-size="15" font-weight="700" fill="#1f2328" text-anchor="start">Must be considered before you conclude</text>
+  <text x="608" y="166" font-size="12" font-weight="600" fill="#656d76" text-anchor="end">3 of 4 considered</text>
+  <rect x="40" y="186" width="16" height="16" rx="3" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <polyline points="44,194 47,197 52,191" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <text x="64" y="199" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Vulnerability: child under 5</text>
+  <rect x="40" y="220" width="16" height="16" rx="3" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <polyline points="44,228 47,231 52,225" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <text x="64" y="233" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Vulnerability: respiratory condition</text>
+  <rect x="40" y="254" width="16" height="16" rx="3" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <polyline points="44,262 47,265 52,259" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <text x="64" y="267" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Tenant statement: &quot;Baby wheezing at night since mould came back&quot;</text>
+  <rect x="40" y="288" width="16" height="16" rx="3" fill="#ffffff" stroke="#8c959f" stroke-width="1"/>
+  <text x="64" y="301" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">GP letter received 22 Dec (evidence E-3)</text>
+  <text x="40" y="344" font-size="12" font-weight="400" fill="#656d76" text-anchor="start">Conclude stays disabled until every item is ticked.</text>
+  <rect x="24" y="392" width="600" height="216" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="40" y="418" font-size="15" font-weight="700" fill="#1f2328" text-anchor="start">Evidence</text>
+  <rect x="40" y="428" width="128" height="80" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="40" y1="428" x2="168" y2="508" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="168" y1="428" x2="40" y2="508" stroke="#d0d7de" stroke-width="1"/>
+  <rect x="180" y="428" width="128" height="80" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="180" y1="428" x2="308" y2="508" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="308" y1="428" x2="180" y2="508" stroke="#d0d7de" stroke-width="1"/>
+  <rect x="320" y="428" width="128" height="80" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="320" y1="428" x2="448" y2="508" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="448" y1="428" x2="320" y2="508" stroke="#d0d7de" stroke-width="1"/>
+  <rect x="460" y="428" width="128" height="80" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="460" y1="428" x2="588" y2="508" stroke="#d0d7de" stroke-width="1"/>
+  <line x1="588" y1="428" x2="460" y2="508" stroke="#d0d7de" stroke-width="1"/>
+  <text x="40" y="536" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">External wall, behind cot</text>
+  <text x="600" y="536" font-size="13" font-weight="600" fill="#1f2328" text-anchor="end">22% WME</text>
+  <text x="40" y="558" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Window reveal</text>
+  <text x="600" y="558" font-size="13" font-weight="600" fill="#1f2328" text-anchor="end">19% WME</text>
+  <text x="40" y="580" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Relative humidity</text>
+  <text x="600" y="580" font-size="13" font-weight="600" fill="#1f2328" text-anchor="end">68%</text>
+  <rect x="24" y="624" width="600" height="152" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="40" y="650" font-size="15" font-weight="700" fill="#1f2328" text-anchor="start">Visit</text>
+  <text x="40" y="676" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Investigation type: Emergency</text>
+  <text x="40" y="700" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Physical inspection: Tue 22 Dec, 12:05</text>
+  <text x="40" y="724" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Investigator: R. Patel</text>
+  <rect x="40" y="736" width="186.00000000000003" height="22" rx="11" fill="#dafbe1" stroke="#dafbe1" stroke-width="1"/>
+  <text x="49" y="751" font-size="12" font-weight="600" fill="#116329" text-anchor="start">Competent: damp and mould</text>
+  <rect x="648" y="140" width="608" height="636" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="664" y="166" font-size="15" font-weight="700" fill="#1f2328" text-anchor="start">Finding</text>
+  <text x="664" y="196" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Severity</text>
+  <rect x="664" y="206" width="184" height="36" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="756.0" y="229.04" font-size="14" font-weight="600" fill="#1f2328" text-anchor="middle">Emergency</text>
+  <rect x="856" y="206" width="184" height="36" rx="6" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <text x="948.0" y="229.04" font-size="14" font-weight="600" fill="#ffffff" text-anchor="middle">Significant</text>
+  <rect x="1048" y="206" width="184" height="36" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="1140.0" y="229.04" font-size="14" font-weight="600" fill="#1f2328" text-anchor="middle">Not relevant</text>
+  <rect x="664" y="254" width="576" height="34" rx="6" fill="#fff8c5" stroke="#d4a72c" stroke-width="1"/>
+  <text x="678" y="276" font-size="13" font-weight="600" fill="#7d4e00" text-anchor="start">Lower than triage (Emergency): a rationale is required.</text>
+  <text x="664" y="312" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">HHSRS hazard category</text>
+  <rect x="664" y="320" width="284" height="36" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="674" y="343.0" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">Damp and mould growth</text>
+  <text x="930" y="343.0" font-size="14" font-weight="400" fill="#656d76" text-anchor="start">▾</text>
+  <text x="956" y="312" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Exclusion</text>
+  <rect x="956" y="320" width="284" height="36" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="966" y="343.0" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">None</text>
+  <text x="1222" y="343.0" font-size="14" font-weight="400" fill="#656d76" text-anchor="start">▾</text>
+  <text x="956" y="373" font-size="12" font-weight="400" fill="#656d76" text-anchor="start">Tenant breach needs evidence + second sign-off</text>
+  <text x="664" y="400" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Required work</text>
+  <rect x="664" y="410" width="576" height="36" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <rect x="672" y="417" width="78.48" height="22" rx="11" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <text x="681" y="432" font-size="12" font-weight="600" fill="#ffffff" text-anchor="start">Make safe</text>
+  <text x="790" y="433" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Treat mould, replace failed extractor fan</text>
+  <rect x="1126.6399999999999" y="417" width="105.36000000000001" height="22" rx="11" fill="#fff8c5" stroke="#fff8c5" stroke-width="1"/>
+  <text x="1135.6399999999999" y="432" font-size="12" font-weight="600" fill="#7d4e00" text-anchor="start">By Thu 31 Dec</text>
+  <rect x="664" y="452" width="576" height="36" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <rect x="672" y="459" width="98.64000000000001" height="22" rx="11" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <text x="681" y="474" font-size="12" font-weight="600" fill="#ffffff" text-anchor="start">Preventative</text>
+  <text x="790" y="475" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Insulate external wall, add trickle vents</text>
+  <rect x="1126.6399999999999" y="459" width="105.36000000000001" height="22" rx="11" fill="#eaeef2" stroke="#eaeef2" stroke-width="1"/>
+  <text x="1135.6399999999999" y="474" font-size="12" font-weight="600" fill="#424a53" text-anchor="start">Start in 5 WD</text>
+  <text x="664" y="514" font-size="13" font-weight="600" fill="#0969da" text-anchor="start">+ Add work item</text>
+  <rect x="664" y="530" width="16" height="16" rx="3" fill="#ffffff" stroke="#8c959f" stroke-width="1"/>
+  <text x="688" y="543" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">Further investigation needed to scope the work</text>
+  <text x="664" y="576" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Rationale</text>
+  <rect x="664" y="584" width="576" height="64" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="674" y="606" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">0.4 m² of mould, not on the cot side; RH 68%. Infant wheeze and GP letter considered.</text>
+  <text x="674" y="626" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">Risk tolerable for 5 working days with the fan replaced. Make safe by Thu 31 Dec.</text>
+  <rect x="664" y="670" width="16" height="16" rx="3" fill="#ffffff" stroke="#8c959f" stroke-width="1"/>
+  <text x="688" y="683" font-size="14" font-weight="400" fill="#1f2328" text-anchor="start">Can&#x27;t make safe by the deadline: start rehousing</text>
+  <rect x="664" y="716" width="140" height="36" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="734.0" y="739.04" font-size="14" font-weight="600" fill="#1f2328" text-anchor="middle">Save draft</text>
+  <rect x="816" y="716" width="220" height="36" rx="6" fill="#eaeef2" stroke="#d0d7de" stroke-width="1"/>
+  <text x="926.0" y="739.04" font-size="14" font-weight="600" fill="#8c959f" text-anchor="middle">Conclude investigation</text>
+  <text x="1050" y="739" font-size="12" font-weight="600" fill="#7d4e00" text-anchor="start">1 item still to consider</text>
+  
+  <rect x="0.5" y="0.5" width="1279" height="799" fill="none" stroke="#d0d7de"/>
+</svg>

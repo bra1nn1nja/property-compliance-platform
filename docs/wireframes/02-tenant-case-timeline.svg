@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs><clipPath id="phone"><rect x="0" y="0" width="390" height="844" rx="28"/></clipPath></defs>
+  <g clip-path="url(#phone)"><rect width="390" height="844" fill="#ffffff"/>
+  <rect x="0" y="0" width="390" height="64" rx="0" fill="#24292f" stroke="#24292f" stroke-width="1"/>
+  <text x="20" y="42" font-size="18" font-weight="700" fill="#ffffff" text-anchor="start">Your home</text>
+  <text x="370" y="42" font-size="14" font-weight="600" fill="#adbac7" text-anchor="end">Menu</text>
+  <text x="20" y="92" font-size="13" font-weight="600" fill="#656d76" text-anchor="start">‹ My cases</text>
+  <text x="20" y="122" font-size="22" font-weight="700" fill="#1f2328" text-anchor="start">Damp and mould</text>
+  <text x="20" y="144" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">Bedroom · Ref HC-2026-0457</text>
+  <rect x="20" y="154" width="105.36000000000001" height="22" rx="11" fill="#fff8c5" stroke="#fff8c5" stroke-width="1"/>
+  <text x="29" y="169" font-size="12" font-weight="600" fill="#7d4e00" text-anchor="start">Repair booked</text>
+  <rect x="20" y="190" width="350" height="100" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="36" y="216" font-size="13" font-weight="600" fill="#656d76" text-anchor="start">What happens next</text>
+  <text x="36" y="240" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start">Repair visit: Tue 29 Dec, 10:00 to 12:00</text>
+  <text x="36" y="262" font-size="13" font-weight="400" fill="#656d76" text-anchor="start">We must finish this by Wed 30 Dec.</text>
+  <text x="354" y="216" font-size="13" font-weight="600" fill="#0969da" text-anchor="end">Change</text>
+  <text x="20" y="322" font-size="15" font-weight="700" fill="#1f2328" text-anchor="start">Timeline</text>
+  <line x1="29" y1="340" x2="29" y2="596" stroke="#d0d7de" stroke-width="2"/>
+  <circle cx="29" cy="340" r="6" fill="#24292f" stroke="#24292f" stroke-width="2"/>
+  <text x="48" y="338" font-size="12" font-weight="400" fill="#656d76" text-anchor="start">Tue 22 Dec</text>
+  <text x="48" y="357" font-size="13" font-weight="600" fill="#1f2328" text-anchor="start">Repair booked for Tue 29 Dec</text>
+  <circle cx="29" cy="404" r="6" fill="#ffffff" stroke="#24292f" stroke-width="2"/>
+  <text x="48" y="402" font-size="12" font-weight="400" fill="#656d76" text-anchor="start">Tue 22 Dec</text>
+  <text x="48" y="421" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Letter: what we found and what we&#x27;ll do</text>
+  <text x="48" y="440" font-size="13" font-weight="600" fill="#0969da" text-anchor="start">View letter</text>
+  <circle cx="29" cy="468" r="6" fill="#ffffff" stroke="#24292f" stroke-width="2"/>
+  <text x="48" y="466" font-size="12" font-weight="400" fill="#656d76" text-anchor="start">Mon 21 Dec</text>
+  <text x="48" y="485" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Inspection done: hazard found</text>
+  <circle cx="29" cy="532" r="6" fill="#ffffff" stroke="#24292f" stroke-width="2"/>
+  <text x="48" y="530" font-size="12" font-weight="400" fill="#656d76" text-anchor="start">Fri 18 Dec</text>
+  <text x="48" y="549" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">Inspection booked for Mon 21 Dec</text>
+  <circle cx="29" cy="596" r="6" fill="#ffffff" stroke="#24292f" stroke-width="2"/>
+  <text x="48" y="594" font-size="12" font-weight="400" fill="#656d76" text-anchor="start">Fri 18 Dec</text>
+  <text x="48" y="613" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start">You reported the problem</text>
+  <rect x="20" y="668" width="350" height="40" rx="6" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="195.0" y="693.04" font-size="14" font-weight="600" fill="#1f2328" text-anchor="middle">Add information or photos</text>
+  <rect x="20" y="718" width="350" height="40" rx="6" fill="#eaeef2" stroke="#d0d7de" stroke-width="1"/>
+  <text x="195.0" y="743.04" font-size="14" font-weight="600" fill="#8c959f" text-anchor="middle">Ask for an in-person inspection</text>
+  <text x="20" y="776" font-size="12" font-weight="400" fill="#656d76" text-anchor="start">Not needed: an inspector visited on 21 Dec.</text>
+  <text x="195" y="812" font-size="14" font-weight="600" fill="#0969da" text-anchor="middle">Contact us</text>
+  </g>
+  <rect x="1" y="1" width="388" height="842" rx="28" fill="none" stroke="#1f2328" stroke-width="2"/>
+</svg>
